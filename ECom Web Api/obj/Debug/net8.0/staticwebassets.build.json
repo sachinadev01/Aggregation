@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "cW8JZ/sF3Npk2nZR7q0bHIwwykUZ3m+12bjqnOgQfic=",
+  "Source": "ECom Web Api",
+  "BasePath": "_content/ECom Web Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECom Web Api\\wwwroot",
+      "Source": "ECom Web Api",
+      "ContentRoot": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\",
+      "BasePath": "_content/ECom Web Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\uploads\\da80bfd3-3d5e-4b80-aa11-a4bbc95bfed1.png",
+      "SourceId": "ECom Web Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\",
+      "BasePath": "_content/ECom Web Api",
+      "RelativePath": "uploads/da80bfd3-3d5e-4b80-aa11-a4bbc95bfed1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\da80bfd3-3d5e-4b80-aa11-a4bbc95bfed1.png"
+    },
+    {
+      "Identity": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\uploads\\ed12be8b-57cc-4143-9ca8-4d27f17d6c88.png",
+      "SourceId": "ECom Web Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\",
+      "BasePath": "_content/ECom Web Api",
+      "RelativePath": "uploads/ed12be8b-57cc-4143-9ca8-4d27f17d6c88.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ed12be8b-57cc-4143-9ca8-4d27f17d6c88.png"
+    }
+  ]
+}

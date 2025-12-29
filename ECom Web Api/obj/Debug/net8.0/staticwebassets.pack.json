@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\uploads\\da80bfd3-3d5e-4b80-aa11-a4bbc95bfed1.png",
+      "PackagePath": "staticwebassets\\uploads\\da80bfd3-3d5e-4b80-aa11-a4bbc95bfed1.png"
+    },
+    {
+      "Id": "D:\\Api\\Backend_Api\\ECom Web Api\\wwwroot\\uploads\\ed12be8b-57cc-4143-9ca8-4d27f17d6c88.png",
+      "PackagePath": "staticwebassets\\uploads\\ed12be8b-57cc-4143-9ca8-4d27f17d6c88.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECom Web Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECom Web Api.props",
+      "PackagePath": "build\\ECom Web Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECom Web Api.props",
+      "PackagePath": "buildMultiTargeting\\ECom Web Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECom Web Api.props",
+      "PackagePath": "buildTransitive\\ECom Web Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
